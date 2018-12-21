@@ -1,10 +1,10 @@
 {
   "name": "martijnd",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A personal card for Martijn Dorsman @martijnd",
   "main": "index.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "martijnd": "./bin/card.js"
   },
   "repository": {
     "type": "git",
