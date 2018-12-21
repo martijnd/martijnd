@@ -16,7 +16,7 @@ const options = {
 // Text + chalk definitions
 const data = {
   name: chalk.white('Martijn Dorsman /'),
-  handle: chalk.cyan('bitandbang'),
+  handle: chalk.cyan('martijnd'),
   work: chalk.white('Full Stack Developer at Flaire'),
   codepen: chalk.cyan('https://codepen.io/martijnd'),
   github: chalk.cyan('https://github.com/martijnd'),

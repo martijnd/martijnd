@@ -1,6 +1,6 @@
 {
   "name": "martijnd",
-  "version": "2.0.3",
+  "version": "2.0.5",
   "description": "A personal card for Martijn Dorsman @martijnd",
   "main": "index.js",
   "bin": {
