@@ -1,14 +1,14 @@
 {
-  "name": "bitandbang",
+  "name": "martijnd",
   "version": "1.2.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "description": "A personal card for Martijn Dorsman @martijnd",
   "main": "index.js",
   "bin": {
     "bitandbang": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bnb/bitandbang.git"
+    "url": "https://github.com/martijnd/martijnd.git"
   },
   "scripts": {
     "prepublish": "npm run build",
@@ -17,7 +17,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Martijn Dorsman <martijn.dorsman@gmail.com> (https://martijndorsman.nl)",
   "license": "MIT",
   "files": [
     "bin/card.js",
