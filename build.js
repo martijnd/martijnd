@@ -17,7 +17,7 @@ const options = {
 const data = {
   name: chalk.white('Martijn Dorsman /'),
   handle: chalk.cyan('martijnd'),
-  work: chalk.white('Full Stack Developer at Flaire'),
+  work: chalk.white('Front End Developer at Global VAT Compliance'),
   codepen: chalk.cyan('https://codepen.io/martijnd'),
   github: chalk.cyan('https://github.com/martijnd'),
   linkedin: chalk.cyan('https://linkedin.com/in/martijn-dorsman'),
